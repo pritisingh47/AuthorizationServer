@@ -1,2 +1,4 @@
 # AuthorizationServer
-Auth server implemented using Spring security oauth2
+Authorization server implemented using Spring security oauth2 framework.
+database used : H2 db
+
